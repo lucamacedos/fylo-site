@@ -1,0 +1,111 @@
+/* HEADER */
+
+.font-header-xl {
+    font: 400 1rem/1.12 'Raleway', sans-serif;
+}
+
+/* HERO */
+
+.font-hero-bold {
+    font: 700 2.5rem/1.5 'Raleway', sans-serif;
+}
+
+.font-hero-light {
+    font: 400 1.25rem/1.5 'Open Sans', sans-serif;
+}
+
+.font-hero-button {
+    font: 700 1rem/1.12 'Open Sans', sans-serif;
+}
+
+/* FEATURES */
+
+.font-features-bold {
+    font: 700 1.25rem/1.15 'Releway', sans-serif;
+}
+
+.font-features-xl {
+    font: 400 0.8rem/1.5 'Open Sans', sans-serif;
+}
+
+/* ADDITIONAL FEATURE */
+
+.font-adfeatures-bold {
+    font: 700 2.5rem/1.25 'Releway', sans-serif;
+}
+
+.font-adfeatures-light {
+    font: 400 1rem/1.5 'Open Sans', sans-serif;
+}
+
+/* FEEDBACK */
+
+.font-feedback-light {
+    font: 400 0.8rem/1.5 'Open Sans', sans-serif;
+}
+
+.font-feedback-bold {
+    font: 700 0.6rem/1.2 'Open Sans', sans-serif;
+}
+
+.font-feedback-xl {
+    font: 400 0.5rem/1.25 'Open Sans', sans-serif;
+}
+
+/* FOOTER */
+
+.font-footer-bold {
+    font: 400 2rem/1.5 'Raleway', sans-serif;
+}
+
+.font-footer-light {
+    font: 400 0.8rem/1.5 'Open Sans', sans-serif;
+}
+
+.font-footer-xl {
+    font: 400 1rem/1.5 'Open Sans', sans-serif;
+}
+
+.font-fotter-button {
+    font: 700 0.8rem/1.5 'Raleway', sans-serif;
+}
+
+
+@media (max-width: 800px) {
+    /* HERO */
+    .font-hero-bold {
+        font: 700 1.5rem/1.5 'Raleway', sans-serif;
+    }
+
+    .font-hero-light {
+        font: 400 0.8rem/1.5 'Open Sans', sans-serif;
+    }
+
+    .font-hero-button {
+        font: 700 0.8/1.14 'Open Sans', sans-serif;
+    }
+
+    /* FEATURES */
+    .font-features-bold {
+        font: 700 1.12rem/1.3 'Releway', sans-serif;
+    }
+
+    .font-features-xl {
+        font: 400 0.8rem/1.5 'Open Sans', sans-serif;
+    }
+
+    /* ADDITIONAL FEATURE */
+    .font-adfeatures-bold {
+        font: 700 1.12rem/1.3 'Releway', sans-serif;
+    }
+
+    .font-adfeatures-light {
+        font: 400 0.8rem/1.5 'Open Sans', sans-serif;
+    }
+
+    /* FOOTER */
+    .font-footer-bold {
+        font: 400 1.12rem/1.3 'Raleway', sans-serif;
+    }
+}
+

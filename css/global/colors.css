@@ -1,0 +1,28 @@
+:root {
+    --cor-0: #FFFFFF;
+    --cor-1: #62E0D9;
+    --cor-2: #8ADAE3;
+    --cor-3: #0B1524;
+    --cor-4: #181F2B;
+    --cor-5: #1B2330;
+    --cor-6: #202A3C;
+    --cor-7: #1B2330;
+    --cor-8: linear-gradient(138.1deg, #63E1D9 -49.34%, #34A0CD 100%);
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.15925);
+}
+
+.cor-0 {
+    color: var(--cor-0);
+}
+
+.cor-1 {
+    color: var(--cor-1);
+}
+
+.cor-2 {
+    color: var(--cor-2);
+}
+
+.cor-3 {
+    color: var(--cor-3);
+}

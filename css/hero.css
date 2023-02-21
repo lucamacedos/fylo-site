@@ -1,0 +1,54 @@
+.hero-bg {
+    background-color: var(--cor-5);
+    background-image: url("../images/bg-curvy-desktop.svg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+    padding-bottom: 150px;
+}
+
+.hero-container {
+    max-width: 730px;
+    margin: 0 auto;
+    padding: 0px 20px;
+}
+
+.hero {
+    text-align: center;
+}
+
+.hero picture {
+    margin-bottom: 30px;
+}
+
+.hero h1, .hero p {
+    margin-bottom: 32px;
+}
+
+.hero-button {
+    background: var(--cor-8);
+    padding: 19px 95px;
+    display: inline-block;
+    border-radius: 28px;
+}
+
+@media (max-width: 800px) {
+    .hero-bg {
+        padding-bottom: 120px;
+    }
+
+    .hero picture {
+        margin-bottom: 33px;
+    }
+    
+    .hero h1, .hero p {
+        margin-bottom: 15px;
+    }
+    
+    .hero-button {
+        background: var(--cor-8);
+        padding: 20px 50px;
+        display: inline-block;
+        border-radius: 28px;
+    }
+}

@@ -1,0 +1,25 @@
+/* GLOBAL */
+@import url("../css/global/global.css");
+@import url("../css/global/colors.css");
+@import url("../css/global/tipografia.css");
+
+/* HEADER */
+@import url("../css/header.css");
+
+/* HERO */
+@import url("./hero.css");
+
+/* FEATURES */
+@import url("./features.css");
+
+/* ADDITIONAL FEATURES */
+@import url("./additional-features.css");
+
+/* FEEDBACK */
+@import url("./feedback.css");
+
+/* EMAIL NEWS-LETTER */
+@import url("./email-newsletter.css");
+
+/* FOOTER */
+@import url("./footer.css")
